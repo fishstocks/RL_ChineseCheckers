@@ -1,0 +1,42 @@
+[2026-05-08 10:10:53] GAME CREATED
+[2026-05-08 10:13:52] PLAYER JOINED: apollo as lawn green
+[2026-05-08 10:14:32] PLAYER JOINED: apollo as gray0
+[2026-05-08 10:14:32] PLAYER START: apollo (lawn green)
+[2026-05-08 10:14:32] PLAYER START: apollo (gray0)
+[2026-05-08 10:14:32] GAME START — turn order ['lawn green', 'gray0']
+[2026-05-08 10:14:34] SCORE apollo (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:14:34] SCORE apollo (gray0): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:14:34] TURN TIMEOUT: Player with colour lawn green exceeded 2s at move 0. Turn skipped.
+[2026-05-08 10:14:35] MOVE 1: apollo (gray0) 75->56 [0.06ms]
+[2026-05-08 10:14:35] SCORE apollo (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:14:35] SCORE apollo (gray0): Final=283.8, Time=99.8, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:14:37] SCORE apollo (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:14:37] SCORE apollo (gray0): Final=283.8, Time=99.8, Moves(1)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:14:37] TURN TIMEOUT: Player with colour lawn green exceeded 2s at move 1. Turn skipped.
+[2026-05-08 10:14:37] MOVE 2: apollo (gray0) 100->75 [0.02ms]
+[2026-05-08 10:14:37] SCORE apollo (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:14:37] SCORE apollo (gray0): Final=283.6, Time=99.6, Moves(2)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:14:39] SCORE apollo (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:14:39] SCORE apollo (gray0): Final=283.6, Time=99.6, Moves(2)=0.0, Pins(0)=0.0, Dist=184.0, Win Bonus=0.0
+[2026-05-08 10:14:39] TURN TIMEOUT: Player with colour lawn green exceeded 2s at move 2. Turn skipped.
+[2026-05-08 10:14:39] MOVE 3: apollo (gray0) 65->47 [0.03ms]
+[2026-05-08 10:14:39] SCORE apollo (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:14:39] SCORE apollo (gray0): Final=287.4, Time=99.4, Moves(3)=0.0, Pins(0)=0.0, Dist=188.0, Win Bonus=0.0
+[2026-05-08 10:14:41] SCORE apollo (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:14:41] SCORE apollo (gray0): Final=287.4, Time=99.4, Moves(3)=0.0, Pins(0)=0.0, Dist=188.0, Win Bonus=0.0
+[2026-05-08 10:14:41] TURN TIMEOUT: Player with colour lawn green exceeded 2s at move 3. Turn skipped.
+[2026-05-08 10:14:41] MOVE 4: apollo (gray0) 76->65 [0.02ms]
+[2026-05-08 10:14:41] SCORE apollo (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:14:41] SCORE apollo (gray0): Final=287.2, Time=99.2, Moves(4)=0.0, Pins(0)=0.0, Dist=188.0, Win Bonus=0.0
+[2026-05-08 10:14:43] SCORE apollo (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:14:43] SCORE apollo (gray0): Final=287.2, Time=99.2, Moves(4)=0.0, Pins(0)=0.0, Dist=188.0, Win Bonus=0.0
+[2026-05-08 10:14:43] TURN TIMEOUT: Player with colour lawn green exceeded 2s at move 4. Turn skipped.
+[2026-05-08 10:14:44] MOVE 5: apollo (gray0) 87->76 [0.02ms]
+[2026-05-08 10:14:44] SCORE apollo (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:14:44] SCORE apollo (gray0): Final=289.0, Time=99.0, Moves(5)=0.0, Pins(0)=0.0, Dist=190.0, Win Bonus=0.0
+[2026-05-08 10:14:46] SCORE apollo (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:14:46] SCORE apollo (gray0): Final=289.0, Time=99.0, Moves(5)=0.0, Pins(0)=0.0, Dist=190.0, Win Bonus=0.0
+[2026-05-08 10:14:46] TURN TIMEOUT: Player with colour lawn green exceeded 2s at move 5. Turn skipped.
+[2026-05-08 10:14:46] MOVE 6: apollo (gray0) 76->66 [0.06ms]
+[2026-05-08 10:14:46] SCORE apollo (lawn green): Final=0.0, Time=0.0, Moves(0)=0.0, Pins(0)=0.0, Dist=0.0, Win Bonus=0.0
+[2026-05-08 10:14:46] SCORE apollo (gray0): Final=290.8, Time=98.8, Moves(6)=0.0, Pins(0)=0.0, Dist=192.0, Win Bonus=0.0

@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.venv/
+.venv312/
+venv/
+
+checkpoints/
+checkers_tensorboard/
+longrun_training/
+ray_results/
+training_logs/
+*.zip
+*.pt
+*.pth
+*.pkl
