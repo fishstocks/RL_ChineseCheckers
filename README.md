@@ -89,7 +89,6 @@ python PPO/plot_ppo_greedy_benchmark.py --model-path ppo_1mil_1v1.zip --games 20
 
 ## Note
 
-This was made as a learning project. It is not a full research reproduction and
-does not include the full six-player multi-agent setup from the paper that
-inspired it. The tournament server connection was not completed in time, but the
-trained model was later tested manually and verified to run.
+This was made as a learning project. The tournament server connection was not
+completed in time, but the trained model was later tested manually and verified
+to run.
