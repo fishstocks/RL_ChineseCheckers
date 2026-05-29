@@ -4,8 +4,9 @@ This project explores reinforcement learning for Chinese Checkers. The goal was
 to learn how a board game can be turned into a reinforcement learning
 environment and how a PPO agent can be trained to play it.
 
-The project was inspired by research on Chinese Checkers reinforcement learning,
-especially ideas such as submoves, action masking, stacked board observations,
+This project was inspired by
+[Efficient Learning in Chinese Checkers: Comparing Parameter Sharing in Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2405.18733),
+especially its ideas about submoves, action masking, stacked board observations,
 PPO, and shared-policy self-play. This repo uses a smaller and simpler setup:
 a 1v1 Chinese Checkers agent trained with `MaskablePPO`.
 
