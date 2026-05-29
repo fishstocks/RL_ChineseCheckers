@@ -14,9 +14,8 @@ from stable_baselines3.common.monitor import Monitor
 
 
 CURRENT_DIR = Path(__file__).resolve().parent
-OLD_DIR = CURRENT_DIR / "old"
-if str(OLD_DIR) not in sys.path:
-    sys.path.append(str(OLD_DIR))
+if str(CURRENT_DIR) not in sys.path:
+    sys.path.append(str(CURRENT_DIR))
 
 from APO_env_v2 import ChineseCheckersEnv
 
